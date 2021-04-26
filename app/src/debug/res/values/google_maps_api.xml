@@ -22,5 +22,5 @@
     AIzaSyAG4X-aJ1vazlBERHsMldsgToa5UGswkmM
     new api..actual..
     -->
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBtICZZoIahox9xNwb1i-juuMaHwV2kVzM</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">your api key</string>
 </resources>
